@@ -167,3 +167,27 @@ WHERE authorized = 1
     OR payment_method = 'BANK TRANSFER'
   )
 ORDER BY creation DESC;
+
+---
+
+### 🏷️ **Repository Title**
+**`daily-disbursement-collection-summary-sql`**
+
+---
+
+### 📝 **Short Repository Description**
+> SQL query that combines daily disbursement and collection transactions for financial reporting, reconciliation, and cash flow analysis.
+
+---
+
+### 🔖 **Suggested GitHub Topics / Tags**
+sql
+data-analysis
+finance
+transactions
+data-reporting
+portfolio-project
+business-intelligence
+data-analytics
+cashflow
+reconciliation
